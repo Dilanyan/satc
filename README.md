@@ -1,2 +1,2 @@
 # satc
-Stepik auto test cource
+Stepik auto test course
